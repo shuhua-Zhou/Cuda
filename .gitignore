@@ -1,0 +1,10 @@
+build/
+build-*/
+x64/
+CudaOpen.*/
+.vs/
+CMakeSettings.json
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
